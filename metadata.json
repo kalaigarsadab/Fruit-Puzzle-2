@@ -1,0 +1,6 @@
+{
+  "name": "Magic Sorting",
+  "description": "Magic Sorting – Fruit Party: A cute 2D cartoon fruit sorting puzzle game with 500+ levels, 5 game modes, daily rewards, themes, and local offline progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
